@@ -1,6 +1,7 @@
 module.exports = {
   HOST: 'localhost',
   USER: 'root',
+  PORT: '3386',
   PASSWORD: '',
   DB: 'test-node-vue',
   dialect: 'mysql',
